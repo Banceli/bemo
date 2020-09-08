@@ -1,0 +1,38 @@
+  label {
+    display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: .85em;
+   }
+   .contact_label {
+    display: block;
+    text-align: center;
+	color: gray;
+   }
+  #mail,#name, form textarea{
+    background-color: gray;
+    width: 75%;
+    margin-left: 8%;
+    margin-right:10%;
+    margin-bottom: 2%;
+  }
+  #reset{
+    text-align: center;
+      margin-left:45%;
+      margin-right:5%;
+      
+  }
+  #submit,#reset{
+    color:darkblue;
+    background-color:gray;
+    padding-right:20px;
+    padding-left:20px;
+	margin-bottom: 5%;
+  }
+  #note_tag{
+     margin-left:15%;
+  }
+  .bemo_contact{
+     margin-left:2%;
+  }
+ 

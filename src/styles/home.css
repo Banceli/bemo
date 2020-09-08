@@ -1,0 +1,48 @@
+
+    .container,.header{
+        width: 80%;
+        margin: 0 auto; 
+    }
+
+    ol { padding-left: 1em; }
+    .guide_text {
+        position: absolute;
+       
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+         padding-bottom: 10px;
+        border-bottom: 1px solid ;
+    }
+    .guide_container {
+        position: relative;
+        text-align: center;
+        color: white;
+    }
+    .more_details_link{
+        margin-left:0.5em;
+        margin-right: 0.5em;
+        color:darkorange;
+    }
+    .faqs a{
+        color:darkorange;
+        text-decoration:none;
+    }
+   .faqs a:after {
+        content: ' ';
+        display: block;
+    }
+    .overview span:after {
+        content: ' ';
+        display: block;
+    }
+    .faqs{
+        margin-top: -1em;
+    }
+    #guide_title {
+        color: darkblue;
+    }
+
+ 
+  
+  
