@@ -3,11 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <meta name="description" content="BeMo Academic Consulting">
   <title>BeMo</title>
+  <!-- Google Analytics -->
+  <script src="../script/analytics/google.js"></script>
+  <!-- End Google Analytics -->
   <link rel="stylesheet" href="../styles/main.css">
   <link rel="stylesheet" href="../styles/contact.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+   <!-- Facebook Pixel Code -->
+  <script src="../script/analytics/fb.js"></script>
+  <noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=315344192904128&ev=PageView&noscript=1"/></noscript>
+  <!-- End Facebook Pixel Code -->
 </head>
 <body>
  <?php
