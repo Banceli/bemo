@@ -85,7 +85,7 @@
         <h3>Reference</h3>
         <p>Poole A., Catano, VM., and Cunningham, DP. Predicting performance in Canadian dental schools: the new CDA structured interview, a new personality assessment, and the DAT. Journal of Dental Education. 2007; 71: 664 - 676.</p>
     </div>   
-	<a  href="#top"><i href="#top" class="fa fa-long-arrow-up" id ="arrow" ></i></a>
+	 <a  href="#top"> <img src = "https://cdainterview.com/rw_common/themes/Endeavor/images/up1.png" id ="arrow" ></img></a>
     <?php include 'templates/fixed/footer.php';?>
 	
 </body>

@@ -9,7 +9,7 @@
 	#arrow{
 		font-size:50px;
 		color:gray;
-		margin-left:98%;
+		margin-left:97%;
 	}
   /*Header*/
   #topheader nav{
@@ -26,27 +26,38 @@
         text-decoration: none;
         padding: 7px 25px;
         display: inline-block;
-        
+		font-size: 17px;
+        font-family: arial;
     }
 
 #topheader .navbar-nav li.active > a {
 	color: darkblue;
-     background-color:white;
+    background-color:white;
 }
+#topheader .navbar-nav li.active > a:after {
+	 content: "";
+    display: block;
+    opacity: 1;
+    border-bottom: 1px solid;
+    margin: 0px auto;
+    width: 40%;
+}
+   
 #logo_img{
         width: 167px;
         height:100px ;
         margin-top: -4vh;     
  }   
  
- 
  /*footer*/
  .fixed-footer{
-    width: 100%;
-        /*position: fixed;   */     
+    width: 100%;    
     background-color:DarkBlue;
     padding: 10px 0;
     color: white;
+ }
+ .footer_infos{
+	margin-left:3%;
  }
  .footer_span{ color:red;
    	text-decoration: underline;
@@ -55,12 +66,5 @@
  .social {
 	margin-right :3vh;
  }
- /*.social {
-	float:right;
- }
- .footer_infos{
-    float:left;
-  }*/
- 
   
   

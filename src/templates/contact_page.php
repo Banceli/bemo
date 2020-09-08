@@ -48,7 +48,7 @@
     </form>
     <p id="note_tag"><span style="text-decoration: underline;font-weight: bold;">Note: </span> If you are having difficulties with our contact us form above, send us an email to info@bemoacademicconsulting.com (copy & paste the email address)</p>
    </div>   
-   <a href="#top"><i href="#top" class="fa fa-long-arrow-up" id ="arrow"></i></a>
+   <a  href="#top"> <img src = "https://cdainterview.com/rw_common/themes/Endeavor/images/up1.png" id ="arrow" ></img></a>
     <?php include 'templates/fixed/footer.php';?>
 </body>
 </html>

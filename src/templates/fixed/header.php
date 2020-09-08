@@ -31,7 +31,8 @@
 			 </div>
 			 <div class="collapse navbar-collapse" id="nav_collapse">
 				  <ul class="nav navbar-nav navbar-right">
-						<li class="active"><a href="home.php">How To Prepare<span class="sr-only">(current)</span></a></li>
+						<li class="active"><a href="home.php">Main<span class="sr-only">(current)</span></a></li>
+						<li ><a href="#">How To Prepare</a></li>
 						<li><a href="#">CDA Interview Questions</a></li>
 						<li><a href="contact_page.php">Contact Us</a></li>
                        

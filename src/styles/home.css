@@ -7,12 +7,13 @@
     ol { padding-left: 1em; }
     .guide_text {
         position: absolute;
-       
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
          padding-bottom: 10px;
         border-bottom: 1px solid ;
+		font-family: arial;
+		font-size: 46px;
     }
     .guide_container {
         position: relative;
@@ -41,6 +42,8 @@
     }
     #guide_title {
         color: darkblue;
+        font-weight: bold;
+		font-size: 17px;
     }
 
  
